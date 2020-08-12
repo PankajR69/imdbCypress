@@ -1,0 +1,252 @@
+[
+  {
+    "moviename": "The Shawshank Redemption",
+    "year": "(1994)",
+    "id": "tt0111161"
+  },
+  {
+    "moviename": "The Godfather",
+    "year": "(1972)",
+    "id": "tt0068646"
+  },
+  {
+    "moviename": "The Godfather: Part II",
+    "year": "(1974)",
+    "id": "tt0071562"
+  },
+  {
+    "moviename": "The Dark Knight",
+    "year": "(2008)",
+    "id": "tt0468569"
+  },
+  {
+    "moviename": "12 Angry Men",
+    "year": "(1957)",
+    "id": "tt0050083"
+  },
+  {
+    "moviename": "Schindler's List",
+    "year": "(1993)",
+    "id": "tt0108052"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Return of the King",
+    "year": "(2003)",
+    "id": "tt0167260"
+  },
+  {
+    "moviename": "Pulp Fiction",
+    "year": "(1994)",
+    "id": "tt0110912"
+  },
+  {
+    "moviename": "Il buono, il brutto, il cattivo",
+    "year": "(1966)",
+    "id": "tt0060196"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "(2001)",
+    "id": "tt0120737"
+  },
+  {
+    "moviename": "Fight Club",
+    "year": "(1999)",
+    "id": "tt0137523"
+  },
+  {
+    "moviename": "Forrest Gump",
+    "year": "(1994)",
+    "id": "tt0109830"
+  },
+  {
+    "moviename": "Inception",
+    "year": "(2010)",
+    "id": "tt1375666"
+  },
+  {
+    "moviename": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "(1980)",
+    "id": "tt0080684"
+  },
+  {
+    "moviename": "The Lord of the Rings: The Two Towers",
+    "year": "(2002)",
+    "id": "tt0167261"
+  },
+  {
+    "moviename": "The Matrix",
+    "year": "(1999)",
+    "id": "tt0133093"
+  },
+  {
+    "moviename": "Goodfellas",
+    "year": "(1990)",
+    "id": "tt0099685"
+  },
+  {
+    "moviename": "One Flew Over the Cuckoo's Nest",
+    "year": "(1975)",
+    "id": "tt0073486"
+  },
+  {
+    "moviename": "Shichinin no samurai",
+    "year": "(1954)",
+    "id": "tt0047478"
+  },
+  {
+    "moviename": "Se7en",
+    "year": "(1995)",
+    "id": "tt0114369"
+  },
+  {
+    "moviename": "La vita è bella",
+    "year": "(1997)",
+    "id": "tt0118799"
+  },
+  {
+    "moviename": "Cidade de Deus",
+    "year": "(2002)",
+    "id": "tt0317248"
+  },
+  {
+    "moviename": "The Silence of the Lambs",
+    "year": "(1991)",
+    "id": "tt0102926"
+  },
+  {
+    "moviename": "It's a Wonderful Life",
+    "year": "(1946)",
+    "id": "tt0038650"
+  },
+  {
+    "moviename": "Star Wars",
+    "year": "(1977)",
+    "id": "tt0076759"
+  },
+  {
+    "moviename": "Saving Private Ryan",
+    "year": "(1998)",
+    "id": "tt0120815"
+  },
+  {
+    "moviename": "Hamilton",
+    "year": "(2020)",
+    "id": "tt8503618"
+  },
+  {
+    "moviename": "Sen to Chihiro no kamikakushi",
+    "year": "(2001)",
+    "id": "tt0245429"
+  },
+  {
+    "moviename": "The Green Mile",
+    "year": "(1999)",
+    "id": "tt0120689"
+  },
+  {
+    "moviename": "Gisaengchung",
+    "year": "(2019)",
+    "id": "tt6751668"
+  },
+  {
+    "moviename": "Interstellar",
+    "year": "(2014)",
+    "id": "tt0816692"
+  },
+  {
+    "moviename": "Léon",
+    "year": "(1994)",
+    "id": "tt0110413"
+  },
+  {
+    "moviename": "The Usual Suspects",
+    "year": "(1995)",
+    "id": "tt0114814"
+  },
+  {
+    "moviename": "Seppuku",
+    "year": "(1962)",
+    "id": "tt0056058"
+  },
+  {
+    "moviename": "The Lion King",
+    "year": "(1994)",
+    "id": "tt0110357"
+  },
+  {
+    "moviename": "Back to the Future",
+    "year": "(1985)",
+    "id": "tt0088763"
+  },
+  {
+    "moviename": "The Pianist",
+    "year": "(2002)",
+    "id": "tt0253474"
+  },
+  {
+    "moviename": "Terminator 2: Judgment Day",
+    "year": "(1991)",
+    "id": "tt0103064"
+  },
+  {
+    "moviename": "American History X",
+    "year": "(1998)",
+    "id": "tt0120586"
+  },
+  {
+    "moviename": "Modern Times",
+    "year": "(1936)",
+    "id": "tt0027977"
+  },
+  {
+    "moviename": "Psycho",
+    "year": "(1960)",
+    "id": "tt0054215"
+  },
+  {
+    "moviename": "Gladiator",
+    "year": "(2000)",
+    "id": "tt0172495"
+  },
+  {
+    "moviename": "City Lights",
+    "year": "(1931)",
+    "id": "tt0021749"
+  },
+  {
+    "moviename": "The Departed",
+    "year": "(2006)",
+    "id": "tt0407887"
+  },
+  {
+    "moviename": "The Intouchables",
+    "year": "(2011)",
+    "id": "tt1675434"
+  },
+  {
+    "moviename": "Whiplash",
+    "year": "(2014)",
+    "id": "tt2582802"
+  },
+  {
+    "moviename": "The Prestige",
+    "year": "(2006)",
+    "id": "tt0482571"
+  },
+  {
+    "moviename": "Hotaru no haka",
+    "year": "(1988)",
+    "id": "tt0095327"
+  },
+  {
+    "moviename": "Once Upon a Time in the West",
+    "year": "(1968)",
+    "id": "tt0064116"
+  },
+  {
+    "moviename": "Casablanca",
+    "year": "(1942)",
+    "id": "tt0034583"
+  }
+]
