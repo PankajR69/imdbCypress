@@ -34,13 +34,14 @@ describe('Fetching Imdb top 50 Movies', function(){
         }
         ratingList.push(ratings)
     })
-
+        //Creating files to sore value
+        
         cy.writeFile('movieList.json',moviesArr)
         cy.writeFile('ratings.json',ratingList)
     
     })
 
-        it('Compare Data',function(){
+        it('Comparing Data with Stored Data',function(){
 
         cy.readFile('movieList.json').then(i =>{
             i.forEach((item)=>{            
